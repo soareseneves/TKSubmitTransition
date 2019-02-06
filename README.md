@@ -45,7 +45,11 @@ pod 'TKSubmitTransition', :git => 'https://github.com/entotsu/TKSubmitTransition
 ``` ruby
 pod 'TKSubmitTransition', '~> 0.2' 
 ```
+## Carthage ##
 
+``` ruby
+github "entotsu/TKSubmitTransition"
+```
 
 ## Manually ##
 Drag all the files from `SubmitTransition/Classes` into your project.
