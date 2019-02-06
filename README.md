@@ -48,7 +48,7 @@ pod 'TKSubmitTransition', '~> 0.2'
 ## Carthage ##
 
 ``` ruby
-github "entotsu/TKSubmitTransition"
+github "entotsu/TKSubmitTransition" "master"
 ```
 
 ## Manually ##
